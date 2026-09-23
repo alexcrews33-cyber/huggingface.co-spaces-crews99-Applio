@@ -52,3 +52,4 @@ jobs:
       with:
         name: app-debug-apk
         path: bin/*.apk
+
